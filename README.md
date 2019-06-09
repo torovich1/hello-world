@@ -1,5 +1,3 @@
 # hello-world
 #Обучение
-#2019-06-09
-#Изучение работы на gitHub.com
-
+[helllo](https://github.com/torovich1/hello-world)
